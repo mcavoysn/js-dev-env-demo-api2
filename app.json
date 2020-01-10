@@ -1,7 +1,7 @@
 {
   "name": "Node API example",
   "description": "A simple API built in Node and Express hosted on Heroku",
-  "repository": "https://github.com/mcavoysn/js-dev-env-demo-api",
+  "repository": "https://github.com/mcavoysn/js-dev-env-demo-api2",
   "keywords": ["node", "express", "static"]
 }
 
